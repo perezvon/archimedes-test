@@ -1,0 +1,24 @@
+
+.item {
+  display: flex;
+  margin: 20px 30px;
+}
+
+.item .item-container {
+  text-align: left;
+  min-width: 110px;
+}
+
+.item img {
+  width: 80px;
+}
+
+.item h4 {
+  margin: 0;
+}
+
+.text-container {
+  text-align: left;
+  display: flex;
+  flex-flow: column;
+}
